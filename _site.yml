@@ -11,5 +11,4 @@ navbar:
       href: about.html
 
 output:
-    theme: prettydoc::html_pretty
-    highlight: architect
+  html_document:
