@@ -1,7 +1,6 @@
 ---
-title: "about"
+title: "About me"
 author: "Jonathan Sirota"
-date: "4/15/2021"
 output: html_document
 ---
 
