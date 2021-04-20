@@ -2,7 +2,9 @@
 title: "about"
 author: "Jonathan Sirota"
 date: "4/15/2021"
-output: html_document
+output:
+    theme: prettydoc::html_pretty
+    highlight: architect
 ---
 
 ```{r setup, include=FALSE}
