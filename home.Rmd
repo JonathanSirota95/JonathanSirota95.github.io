@@ -1,7 +1,9 @@
 ---
 title: "Homepage"
 author: "Jonathan Sirota"
-output: html_document
+output:
+    theme: prettydoc::html_pretty
+    highlight: architect
 ---
 
 ```{r setup, include=FALSE}
