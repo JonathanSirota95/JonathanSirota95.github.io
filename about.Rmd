@@ -11,7 +11,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Jonathan is a student at University of Pennsylvania, pursuing a Master's Degree
 in Behavioral & Decision Sciences. He is also a Manager, Business Operations at
-Click Therapeutics. 
+Click Therapeutics. He is excited to employ behavioral science principals to 
+healthcare strategy to create a better, more healthy, future.
 
 In his spare time, you can find Jonathan playing music at local music venues
 (or during the COVID-era, at virtual Zoom concerts)
