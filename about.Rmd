@@ -8,6 +8,8 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+![photo](https://user-images.githubusercontent.com/81780751/115785681-c70a7680-a38d-11eb-8ac3-5f66f773855c.jpeg)
+
 Jonathan is a student at University of Pennsylvania, pursuing a Master's Degree
 in Behavioral & Decision Sciences. He is also a Manager, Business Operations at
 Click Therapeutics. 
