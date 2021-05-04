@@ -7,6 +7,8 @@ navbar:
       href: index.html
     - text: "HW09"
       href: HW09.html
+    - text: "HW10"
+      href: HW10.html
     - text: "About"
       href: about.html
 
