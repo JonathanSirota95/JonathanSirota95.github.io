@@ -7,6 +7,11 @@ output: html_document
 
 **NOT COMPLETE DO NOT GRADE PLEASE**
 
+
+
+
+
+
 In this report, we are interested in conducting a network analysis among the BDS-516 Spring 2021 class. First, we import the data and set up the relevant libraries. (`include = FALSE`). 
 
 ## 1) Prepare the data for the network analysis (create a separate edge and node list)
