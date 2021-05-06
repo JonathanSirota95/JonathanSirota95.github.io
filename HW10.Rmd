@@ -8,11 +8,11 @@ output: html_document
 
 In this report, we are interested in conducting a network analysis among the BDS-516 Spring 2021 class.
 
-First, we set up the relevant libraries. 
+First, we set up the relevant libraries. (`include = FALSE`). 
 
 ### 1) Prepare the data for the network analysis: a separate edge and node list.
 
-We begin with our separate node and edge lists, titled `hw_nodelist` and `hw_edgelist`.
+We begin with our separate node and edge lists, titled `hw_nodelist` and `hw_edgelist` (`include = FALSE`).
 
 ```{r, include = FALSE, echo=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
@@ -198,7 +198,7 @@ df
 ### 3) Do introverts tend to be at the periphery while extraverts are in the center of the network? 
 As stated, there are three options for introversion per our dataset: 1. Introverted, 2. Middle ground, and 3. Extroverted. We have assigned colors based on people's responses to the introversion question as blue, red, and yellow respectively. Blank circles represent `NA` entries, of which there are many.
 
-While we observe that many individuals did not to answer this question, we note that extroverts and middle ground individuals are closer to the enter of the network. *Indeed, introverts are more on the periphery, relative to the group of extroverts, but it is important to note the small sample size of both introverted and extroverted individuals compared to middle ground individuals and those who responded with `NA`.* 
+While we observe that many individuals did not answer this question, we note that extroverts and middle ground individuals are closer to the enter of the network. *Indeed, introverts are more on the periphery, relative to the group of extroverts, but it is important to note the small sample size of both introverted and extroverted individuals compared to middle ground individuals and those who responded with `NA`.* 
 
 Perhaps, those who chose not to answer - those on the periphery of the network - are more likely to be introverted. 
 
@@ -213,9 +213,3 @@ legend(title = "Types of Individuals", x=-1.5, y=-1.1,
        pt.bg=colrs, pt.cex=2, cex=.8, bty="n", ncol=1)
 
 ```
-
-
-
-
-
-
