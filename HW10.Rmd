@@ -8,11 +8,11 @@ output: html_document
 
 In this report, we are interested in conducting a network analysis among the BDS-516 Spring 2021 class.
 
-First, we set up the relevant libraries. (`include = FALSE`). 
+First, we set up the relevant libraries. 
 
 ### 1) Prepare the data for the network analysis: a separate edge and node list.
 
-We begin with our separate node and edge lists, titled `hw_nodelist` and `hw_edgelist` (`include = FALSE`).
+We begin with our separate node and edge lists, titled `hw_nodelist` and `hw_edgelist`.
 
 ```{r, include = FALSE, echo=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
